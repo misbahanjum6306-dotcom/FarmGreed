@@ -1,0 +1,6 @@
+{
+  "name": "FarmGrid – Agricultural Resource Coordination",
+  "description": "Agricultural resource coordination and scheduling platform under scarcity for small and marginal farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
